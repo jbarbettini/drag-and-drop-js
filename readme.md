@@ -1,6 +1,6 @@
 # Drag and Drop Images with HTML5 and Javascript
 
-
+This application was built in native HTML5, javascript, and Gulp. The images are dynamically populated using a JSON object. 
 
 ## How to run this application
 
